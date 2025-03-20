@@ -1,5 +1,5 @@
 ## Hello, I'm Camila. 👋
-I'm a passionate growing Frontend developer with a year of experience in the programming world. My passion for technology and the creation of attractive and functional interfaces has led me to immerse myself in the exciting world of web development, likewise to spend my time learning and improving my HTML, CSS and JavaScript skills, as well as exploring best practices in Frontend development. I'm excited to continue growing as a Frontend developer and contributing to the world of technology. I'm always ready to learn something new and face new creative challenges.
+I'm a passionate growing Frontend developer with 2 years of experience in the programming world. My passion for technology and the creation of attractive and functional interfaces has led me to immerse myself in the exciting world of web development, likewise to spend my time learning and improving my HTML, CSS and JavaScript skills, as well as exploring best practices in Frontend development. I'm excited to continue growing as a Frontend developer and contributing to the world of technology. I'm always ready to learn something new and face new creative challenges.
 
 ### What I do
 
