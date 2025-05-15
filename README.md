@@ -17,7 +17,7 @@ I'm a passionate growing Frontend developer with 2 years of experience in the pr
 
 
 ### Get in Touch
-If you want to connect, collaborate, or simply chat about technology, feel free to reach out. You can find me on [Linkedin](www.linkedin.com/in/laura-cardenas-castro-959a18261).
+If you want to connect, collaborate, or simply chat about technology, feel free to reach out. You can find me on [Linkedin](https://www.linkedin.com/in/laura-cardenas-castro-959a18261).
 <!--
 **LauraCaa/LauraCaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
